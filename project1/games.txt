@@ -1,0 +1,3 @@
+Player wins: 2927
+Dealer wins: 2625
+Ties: 4448
